@@ -13,7 +13,7 @@ To scan for WiFi networks, use the command `sudo iwlist wlan0 scan`. This will l
 
 ## Adding the network details to the Raspberry Pi
 
-Open the `wpa-supplicant` configuration file in nano:
+Open the `wpa_supplicant` configuration file in nano:
 
 `sudo nano /etc/wpa_supplicant/wpa_supplicant.conf`  
 
